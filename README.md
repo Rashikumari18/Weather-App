@@ -39,4 +39,4 @@ Through this project, I practiced:
 **Rashi Kumari**
 
 B.Tech – Computer Science and Business Systems  
-Meghnad Saha Institute of Technology, Kolkata
+
